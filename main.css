@@ -251,7 +251,7 @@ nav {
   width: 100vw;
   height: clamp(8rem, calc(100vh - 5.75em), 1000px);
   background-image: linear-gradient(to top,
-      #ff0000 0%,
+      #9e9e9e 0%,
       #9e9e9e 1%,
       #b7b7b7 31%,
       #efeeec 75%,
